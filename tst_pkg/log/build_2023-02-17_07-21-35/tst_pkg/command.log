@@ -1,0 +1,6 @@
+Invoking command in '/home/mandar/creatorbot_v1/tst_pkg/build/tst_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/mandar/creatorbot_v1/tst_pkg -DCMAKE_INSTALL_PREFIX=/home/mandar/creatorbot_v1/tst_pkg/install/tst_pkg
+Invoked command in '/home/mandar/creatorbot_v1/tst_pkg/build/tst_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/mandar/creatorbot_v1/tst_pkg -DCMAKE_INSTALL_PREFIX=/home/mandar/creatorbot_v1/tst_pkg/install/tst_pkg
+Invoking command in '/home/mandar/creatorbot_v1/tst_pkg/build/tst_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/mandar/creatorbot_v1/tst_pkg/build/tst_pkg -- -j2 -l2
+Invoked command in '/home/mandar/creatorbot_v1/tst_pkg/build/tst_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/mandar/creatorbot_v1/tst_pkg/build/tst_pkg -- -j2 -l2
+Invoking command in '/home/mandar/creatorbot_v1/tst_pkg/build/tst_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/mandar/creatorbot_v1/tst_pkg/build/tst_pkg
+Invoked command in '/home/mandar/creatorbot_v1/tst_pkg/build/tst_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/mandar/creatorbot_v1/tst_pkg/build/tst_pkg
